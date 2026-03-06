@@ -1,0 +1,10 @@
+.ExpenseItemParentContainer{
+display: flex !important;
+padding: 5px;
+}
+
+.ExpenseItem{
+padding:0px 5px 0px 5px;
+border-color: black;
+border: solid 2px;
+}
