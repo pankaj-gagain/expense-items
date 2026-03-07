@@ -10,6 +10,8 @@ function App() {
     {Title: "New Car", Price:2000.13, Date:new Date().toISOString() }
   ];
 
+  
+
   return (
     <>
      <Expenses expensesList={expensesData}/>
